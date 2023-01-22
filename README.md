@@ -2,7 +2,8 @@
 ![dataset-cover (1)](https://user-images.githubusercontent.com/113231185/213911689-6c3cb036-0d5c-46b2-b1bf-614f8a3ad699.jpg)
 
 ## Overview
--  Classified Human Impression Dataset into 2 classes
+-  Classified Human Impression Dataset into 2 classes : Happy and Sad
+-  Checked whether prediction is correct or not
 
 ## 🗃️Datasets
 
