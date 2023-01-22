@@ -28,7 +28,12 @@ Convolutional Neural Network from scratch
 
 ![image](https://user-images.githubusercontent.com/113231185/213911982-0d7204da-a0df-4675-9d1a-f02e801d50ba.png)
 
-
+## Conclusion
+- model is biased towards Sad Image
+- High Bias can be solved through:
+  - Adding more input features
+  - Adding more complexity by introducing polynomial features
+  - Decreasing Regularization term
 
 ## 👋Contributing
 
