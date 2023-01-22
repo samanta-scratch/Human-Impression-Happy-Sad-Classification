@@ -19,9 +19,10 @@
 Convolutional Neural Network from scratch
 
 ## 📷Visualization
+
 ### Random Data Sample
 
-![image](https://user-images.githubusercontent.com/113231185/213911885-6e4ed435-60e1-4755-a114-bbe16823b97c.png)
+![image](https://user-images.githubusercontent.com/113231185/213911982-0d7204da-a0df-4675-9d1a-f02e801d50ba.png)
 
 
 
